@@ -1,4 +1,4 @@
-name: torch110
+name: thesis
 channels:
   - conda-forge/label/cf202003
   - conda-forge
@@ -242,5 +242,5 @@ dependencies:
     - werkzeug==1.0.1
     - yacs==0.1.8
     - zipp==3.2.0
-prefix: /home/data/miniconda3/envs/torch110
+prefix: /cluster/projects/nn10058k/miniconda3/envs/thesis
 
