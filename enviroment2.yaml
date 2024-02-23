@@ -158,7 +158,7 @@ dependencies:
   - pip:
     - absl-py==0.10.0
     - aniso8601==8.0.0
-    - apex==0.1
+    - apex
     - appdirs==1.4.4
     - bidict==0.21.0
     - cachetools==4.1.1
@@ -242,5 +242,5 @@ dependencies:
     - werkzeug==1.0.1
     - yacs==0.1.8
     - zipp==3.2.0
-prefix: /cluster/projects/nn10058k/miniconda3/envs/thesis
+prefix: /cluster/projects/nn10058k/miniconda3/envs
 
