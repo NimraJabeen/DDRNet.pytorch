@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#SBATCH --time=72:00:00
+#SBATCH --time=300:00:00
 #SBATCH --job-name=DDRtrain
 #SBATCH --output=slurm/DDRtrain.out
 #SBATCH --error=slurm/DDRtrain.err
