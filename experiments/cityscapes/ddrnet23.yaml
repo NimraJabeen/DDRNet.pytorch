@@ -18,7 +18,7 @@ MODEL:
   NAME: ddrnet_23
   NUM_OUTPUTS: 2
   PRETRAINED: "pretrained_models/DDRNet23_imagenet.pth"
-  ALIGN_CORNERS: false
+  ALIGN_CORNERS: true #changed originally from false
 LOSS:
   USE_OHEM: true
   OHEMTHRES: 0.9
